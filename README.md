@@ -1,2 +1,2 @@
-# shopmoviapi
+# shopmovi API
 shopmovi api
